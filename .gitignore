@@ -1,0 +1,23 @@
+# Carpetas de compilación de .NET
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Visual Studio / VS Code / Rider
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userprefs
+*.sln.docstates
+
+# Archivos temporales y de sistema
+*.log
+*.tmp
+*.cache
+Thumbs.db
+.DS_Store
