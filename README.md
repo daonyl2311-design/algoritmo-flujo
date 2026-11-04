@@ -14,7 +14,7 @@
 | Laudy Mejía | 25-MISN-2-011 |
 | Dean Boris Georges Trubina | 26-EISN-2-042 |
 | Wilfy Paulino Martínez | 21-EISN-2-042 |
-| Daniel Antonio Mañón | 26-ESON-2-012 |
+| Daniel Antonio Mañón | 26-ESON-2-015 |
 | Albhery Severino | 25-EISN-2-048 |
 
 ---
